@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-gamecord": "^4.4.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.2.4",
+    "node-fetch": "^3.3.2",
+    "quick.db": "^9.1.7"
+  }
+}
